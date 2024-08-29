@@ -1,10 +1,4 @@
-To effectively debug a Flask application, you can use the Flask debugger, which is a built-in feature that helps you identify errors and understand issues in your code. Here’s a step-by-step guide to using the Flask debugger, including enabling it, interpreting error messages, and leveraging debugging tools.
-
-### Flask Debugger Instructions
-
 #### 1. **Enable Debug Mode**
-
-To use the Flask debugger, you need to run your Flask application in debug mode. Debug mode allows Flask to automatically reload the application when code changes are detected and provides detailed error messages when an exception occurs.
 
 **How to Enable Debug Mode:**
 

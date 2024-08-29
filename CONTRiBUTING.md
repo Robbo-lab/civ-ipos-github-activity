@@ -4,8 +4,13 @@ Thank you for considering contributing to the Tic Tac Toe Flask Application! We 
 
 ## How to Contribute
 
-1. **Fork the repository**: Click the "Fork" button at the top right of the GitHub page.
-2. **Clone your fork**:
+1. **Clone the repository**:
+
+   ```
+   git clone https://github.com/original-repo-owner/original-repo.git
+   ```
+
+2. **CD Into the code**:
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
    cd tic-tac-toe
