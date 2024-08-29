@@ -1,8 +1,8 @@
 ### Instructions
 
-1. **Fork the Repository**:
+1. **Clone the Repository**:
 
-   - Each group member should fork the repository to their own GitHub account.
+   - Each group member should clone the Github Classroom repository.
 
 2. **Add Collaborators**:
 
