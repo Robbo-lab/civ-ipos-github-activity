@@ -23,7 +23,9 @@
    - If you selected **Group assignment**, click **"Set up teams"**.
    - Choose whether to let students create their own teams or require them to join pre-defined teams:
      - **Students create their own teams**: Students can create their own teams when accepting the assignment invitation.
-     - **Pre-defined teams**: You set up the teams in advance and students join them.
+     - **Pre-defined teams**: You set up the team set in advance
+     - **Team Leaders** will be first to accept the assignment and set up their team
+     - students then click the invite to join.
 
 5. **Invite Students**:
    - GitHub Classroom will generate a unique URL for the assignment. Share this link with your students.
